@@ -1,8 +1,13 @@
+body {
+  padding: 0px;
+}
+
 .App {
   background-color: rgb(26, 26, 26);
   text-align: center;
   height: 100vh;
   color: white;
+
 }
 
 .oscarlogo{
@@ -10,6 +15,16 @@
   width: 100%;
   max-width: 50vh;
 }
+
+.login,.signin  {
+  box-shadow: rgb(109, 109, 109) 3px 3px 3px 3px;
+  border-radius: 0.5vw;
+  padding-bottom: 1%;
+  align-self: center;
+  margin-left: 20vh;
+  margin-right: 20vh;
+}
+
 
 .filmlist {
   display: flex;
@@ -24,7 +39,7 @@
   box-shadow: rgb(109, 109, 109) 3px 3px 3px 3px;
   margin-bottom: 5%;
   width: 20vw;
-  /* align-self: center; */
+  /* */
   /* justify-self: center; */
 }
 
