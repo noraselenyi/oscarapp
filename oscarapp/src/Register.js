@@ -21,7 +21,7 @@ const Register = ({ history }) => {
 
   return (
     <div className="signin">
-      <h3>Sign in</h3>
+      <h3>Register</h3>
       <form onSubmit={handleSignUp}>
         <label>
           Email
