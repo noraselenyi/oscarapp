@@ -7,7 +7,16 @@ body {
   text-align: center;
   height: 100vh;
   color: white;
+}
 
+a{
+  margin-right: 1vh;
+  margin-left: 1vh;
+  color: blanchedalmond;
+}
+
+.App-header{
+  padding-top: 3vh;
 }
 
 .oscarlogo{
@@ -39,8 +48,6 @@ body {
   box-shadow: rgb(109, 109, 109) 3px 3px 3px 3px;
   margin-bottom: 5%;
   width: 20vw;
-  /* */
-  /* justify-self: center; */
 }
 
 
